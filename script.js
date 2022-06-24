@@ -40,7 +40,7 @@ const fillers = {
   
   "You want MORE? No worries! Valued Customer! I have added $numbers "$items" to your shopping cart! $stocked"
   
-  "NO! I only bought ONE, and non of whatever THOSE ARE! You $badwords $badwords $robot! This is REDICULOUS!"
+  "NO! I only bought ONE, and none of whatever THOSE ARE! You $badwords $badwords $robot! This is REDICULOUS!"
   
   "Your total is: $totalthous thousand, $totalhund dollars, and 17 cents!" :)
   
